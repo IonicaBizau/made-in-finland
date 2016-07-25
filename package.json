@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -2020,6 +2021,135 @@
               "[@jouni](https://github.com/jouni)/[**WeeLayout**](https://github.com/jouni/WeeLayout)",
               "WeeLayout add-on for Vaadin. Fast and flexible layouting.",
               "[:arrow_upper_right:](http://vaadin.com/addon/weelayout)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "236",
+              "[@JuhaKiili](https://github.com/JuhaKiili)/[**RagePixel**](https://github.com/JuhaKiili/RagePixel)",
+              "2D Pixelart Toolkit for Unity3D",
+              "[:arrow_upper_right:](http://ragepixel.com)"
+            ],
+            [
+              "11",
+              "[@JuhaKiili](https://github.com/JuhaKiili)/[**Fupixel**](https://github.com/JuhaKiili/Fupixel)",
+              "Code-centric pixel framework for Unity.",
+              ""
+            ],
+            [
+              "9",
+              "[@tparvi](https://github.com/tparvi)/[**appsettings**](https://github.com/tparvi/appsettings)",
+              "Handle .NET .config files easily and type safely",
+              ""
+            ],
+            [
+              "7",
+              "[@JuhaKiili](https://github.com/JuhaKiili)/[**RagePixel2**](https://github.com/JuhaKiili/RagePixel2)",
+              "Pixelart toolkit for Unity 4.3 and beyond",
+              ""
+            ],
+            [
+              "5",
+              "[@taimila](https://github.com/taimila)/[**T4DtoBuilder**](https://github.com/taimila/T4DtoBuilder)",
+              "T4 Template to generate DTO builders from existing DTO classes in Visual Studio.",
+              ""
+            ],
+            [
+              "4",
+              "[@JuhaKiili](https://github.com/JuhaKiili)/[**RageEvent**](https://github.com/JuhaKiili/RageEvent)",
+              "Weakly typed event system for Unity",
+              ""
+            ],
+            [
+              "4",
+              "[@vgrem](https://github.com/vgrem)/[**Blog-content**](https://github.com/vgrem/Blog-content)",
+              "SharePoint content from personal blog",
+              "[:arrow_upper_right:](http://blog.vgrem.com/)"
+            ],
+            [
+              "4",
+              "[@Dextrey](https://github.com/Dextrey)/[**natrium**](https://github.com/Dextrey/natrium)",
+              "A high-level crypto library for .NET",
+              ""
+            ],
+            [
+              "4",
+              "[@isurakka](https://github.com/isurakka)/[**quadtree**](https://github.com/isurakka/quadtree)",
+              "Quadtree tree data structure in C#",
+              ""
+            ],
+            [
+              "4",
+              "[@Saulis](https://github.com/Saulis)/[**YouTrack.Rest**](https://github.com/Saulis/YouTrack.Rest)",
+              "Another .NET client for the YouTrack REST API",
+              ""
+            ],
+            [
+              "3",
+              "[@Dextrey](https://github.com/Dextrey)/[**Crype**](https://github.com/Dextrey/Crype)",
+              "Encrypted Skype chat wrapper",
+              ""
+            ],
+            [
+              "3",
+              "[@ToniA](https://github.com/ToniA)/[**netduino-ir-receiver**](https://github.com/ToniA/netduino-ir-receiver)",
+              "Infrared receiver for Netduino, decodes Panasonic air conditioner IR commands",
+              ""
+            ],
+            [
+              "3",
+              "[@taimila](https://github.com/taimila)/[**EnterpriseApplicatio…**](https://github.com/taimila/EnterpriseApplicationExample)",
+              "Example project to illustrate how one can organize the .NET Solution of an enterprise application. This repository is related to the blog post found here that explains the reasoning and architecture in more detail.",
+              ""
+            ],
+            [
+              "2",
+              "[@tparvi](https://github.com/tparvi)/[**tomatoui**](https://github.com/tparvi/tomatoui)",
+              "UI for viewing bandwidth info from routers equipped with tomato firmware",
+              ""
+            ],
+            [
+              "2",
+              "[@ttu](https://github.com/ttu)/[**Match-Rate**](https://github.com/ttu/Match-Rate)",
+              "Match rating web site and Windows Phone 7 application",
+              "[:arrow_upper_right:](http://iki.fi/tomi.tuhkanen//matchrate.html)"
+            ],
+            [
+              "2",
+              "[@ttu](https://github.com/ttu)/[**Strategy-Game**](https://github.com/ttu/Strategy-Game)",
+              "Project for learning game architecture",
+              "[:arrow_upper_right:](http://iki.fi/tomi.tuhkanen//strategygame.html)"
+            ],
+            [
+              "2",
+              "[@paavohuhtala](https://github.com/paavohuhtala)/[**CCE**](https://github.com/paavohuhtala/CCE)",
+              "Cities Compiler Extender. More APIs in scripting mods without using an external compiler.",
+              ""
+            ],
+            [
+              "2",
+              "[@am11](https://github.com/am11)/[**RectanglePacker**](https://github.com/am11/RectanglePacker)",
+              "Fast Optimizing Rectangle Packing Algorithm for Building CSS Sprites",
+              ""
+            ],
+            [
+              "2",
+              "[@mikkopa](https://github.com/mikkopa)/[**Taiga**](https://github.com/mikkopa/Taiga)",
+              "realXtend taiga branch",
+              ""
             ]
           ]
         }
