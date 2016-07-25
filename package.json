@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -2149,6 +2150,33 @@
               "2",
               "[@mikkopa](https://github.com/mikkopa)/[**Taiga**](https://github.com/mikkopa/Taiga)",
               "realXtend taiga branch",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "19",
+              "[@ohanhi](https://github.com/ohanhi)/[**svg-css-backgrounds**](https://github.com/ohanhi/svg-css-backgrounds)",
+              "Multicolor SVGs as CSS backgrounds",
+              "[:arrow_upper_right:](http://ohanhi.github.io/svg-css-backgrounds/)"
+            ],
+            [
+              "6",
+              "[@ohanhi](https://github.com/ohanhi)/[**minimoka-gnome-shell**](https://github.com/ohanhi/minimoka-gnome-shell)",
+              "Minimalistic Gnome Shell Theme",
               ""
             ]
           ]
