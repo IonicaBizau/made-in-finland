@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -2199,6 +2200,339 @@
               "2",
               "[@romandunets](https://github.com/romandunets)/[**php-mvc**](https://github.com/romandunets/php-mvc)",
               "Small Customized PHP MVC-Framework",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "336",
+              "[@juhovh](https://github.com/juhovh)/[**shairplay**](https://github.com/juhovh/shairplay)",
+              "Apple airplay and raop protocol server",
+              ""
+            ],
+            [
+              "235",
+              "[@phadej](https://github.com/phadej)/[**igbinary**](https://github.com/phadej/igbinary)",
+              "Igbinary is a drop in replacement for the standard php serializer.  Check https://github.com/igbinary/igbinary for the freshest version",
+              ""
+            ],
+            [
+              "166",
+              "[@mstorsjo](https://github.com/mstorsjo)/[**vlc-android**](https://github.com/mstorsjo/vlc-android)",
+              "A personal repo for work on vlc-android (not official)",
+              "[:arrow_upper_right:](http://www.videolan.org/support/)"
+            ],
+            [
+              "81",
+              "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**libfixmatrix**](https://github.com/PetteriAimonen/libfixmatrix)",
+              "C library for fixed point matrix, quaternion and vector calculations",
+              ""
+            ],
+            [
+              "78",
+              "[@vendu](https://github.com/vendu)/[**OS-Zero**](https://github.com/vendu/OS-Zero)",
+              "operating system project",
+              ""
+            ],
+            [
+              "64",
+              "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**ED060SC4_driver**](https://github.com/PetteriAimonen/ED060SC4_driver)",
+              "Driver for the ED060SC4 E-ink display",
+              ""
+            ],
+            [
+              "44",
+              "[@penberg](https://github.com/penberg)/[**hornet**](https://github.com/penberg/hornet)",
+              "Hornet, a JVM optimized for low-latency applications.",
+              ""
+            ],
+            [
+              "38",
+              "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**QuadPawn**](https://github.com/PetteriAimonen/QuadPawn)",
+              "Pawn scripting language for the DSO Quad pocket oscilloscope.",
+              ""
+            ],
+            [
+              "34",
+              "[@mstorsjo](https://github.com/mstorsjo)/[**vo-aacenc**](https://github.com/mstorsjo/vo-aacenc)",
+              "VisualOn AAC encoder from Android",
+              ""
+            ],
+            [
+              "30",
+              "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**libfixmath**](https://github.com/PetteriAimonen/libfixmath)",
+              "Cross Platform Fixed Point Maths Library",
+              "[:arrow_upper_right:](https://code.google.com/p/libfixmath/)"
+            ],
+            [
+              "23",
+              "[@tuomasjjrasanen](https://github.com/tuomasjjrasanen)/[**libsuinput**](https://github.com/tuomasjjrasanen/libsuinput)",
+              "Thin userspace library on top of Linux uinput kernel module.",
+              "[:arrow_upper_right:](http://tjjr.fi/sw/libsuinput/)"
+            ],
+            [
+              "20",
+              "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**STM32_Trace_Example**](https://github.com/PetteriAimonen/STM32_Trace_Example)",
+              "Example on using the ITM/ETM tracing on STM32 (and generally any Cortex-M3)",
+              "[:arrow_upper_right:](http://essentialscrap.com/tips/arm_trace/)"
+            ],
+            [
+              "19",
+              "[@penberg](https://github.com/penberg)/[**pstore**](https://github.com/penberg/pstore)",
+              "pstore, a high-performance, read-optimized database system.",
+              ""
+            ],
+            [
+              "18",
+              "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**Baselibc**](https://github.com/PetteriAimonen/Baselibc)",
+              "Small C library for microcontrollers. Code is based on klibc.",
+              ""
+            ],
+            [
+              "14",
+              "[@penberg](https://github.com/penberg)/[**libpacketio**](https://github.com/penberg/libpacketio)",
+              "High-performance packet I/O userspace library",
+              ""
+            ],
+            [
+              "14",
+              "[@KonstaT](https://github.com/KonstaT)/[**sailfishos_kernel_jo…**](https://github.com/KonstaT/sailfishos_kernel_jolla_msm8930)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**dso-quad-logic**](https://github.com/PetteriAimonen/dso-quad-logic)",
+              "Logic analyzer for the DSO Quad",
+              ""
+            ],
+            [
+              "13",
+              "[@mstorsjo](https://github.com/mstorsjo)/[**vo-amrwbenc**](https://github.com/mstorsjo/vo-amrwbenc)",
+              "VisualOn AMR-WB encoder from Android",
+              ""
+            ],
+            [
+              "11",
+              "[@mstorsjo](https://github.com/mstorsjo)/[**libav**](https://github.com/mstorsjo/libav)",
+              "",
+              "[:arrow_upper_right:](http://www.libav.org)"
+            ],
+            [
+              "11",
+              "[@rsaarelm](https://github.com/rsaarelm)/[**sodna**](https://github.com/rsaarelm/sodna)",
+              "Lightweight virtual console library for text mode games",
+              ""
+            ],
+            [
+              "10",
+              "[@tuomasjjrasanen](https://github.com/tuomasjjrasanen)/[**m210**](https://github.com/tuomasjjrasanen/m210)",
+              "Device driver for Pegasus Tablet Mobile NoteTaker (M210) devices",
+              "[:arrow_upper_right:](http://tjjr.fi/sw/m210/)"
+            ],
+            [
+              "10",
+              "[@tiagovignatti](https://github.com/tiagovignatti)/[**gtk-shell**](https://github.com/tiagovignatti/gtk-shell)",
+              "GTK+ shell example for Wayland",
+              ""
+            ],
+            [
+              "9",
+              "[@mstorsjo](https://github.com/mstorsjo)/[**rtmpdump**](https://github.com/mstorsjo/rtmpdump)",
+              "rtmpdump is a toolkit for RTMP streams.",
+              "[:arrow_upper_right:](rtmpdump.mplayerhq.hu)"
+            ],
+            [
+              "9",
+              "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**AlterBIOS**](https://github.com/PetteriAimonen/AlterBIOS)",
+              "Extensions and fixes for DSO Quad BIOS (SYS.HEX)",
+              ""
+            ],
+            [
+              "8",
+              "[@vendu](https://github.com/vendu)/[**Resurrection**](https://github.com/vendu/Resurrection)",
+              "a simple toolkit for xlib with sample applications such as a window manager and terminal emulator.",
+              ""
+            ],
+            [
+              "8",
+              "[@KonstaT](https://github.com/KonstaT)/[**android_kernel_zte_m…**](https://github.com/KonstaT/android_kernel_zte_msm8610)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@tiagovignatti](https://github.com/tiagovignatti)/[**weston-desktop-plugi…**](https://github.com/tiagovignatti/weston-desktop-plugin)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@jvirtanen](https://github.com/jvirtanen)/[**fields**](https://github.com/jvirtanen/fields)",
+              "Fast C library for reading CSV and other tabular text formats",
+              ""
+            ],
+            [
+              "7",
+              "[@KonstaT](https://github.com/KonstaT)/[**android_kernel_nokia…**](https://github.com/KonstaT/android_kernel_nokia_msm8x25)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@JAORMX](https://github.com/JAORMX)/[**Writing-Netfilter-Mo…**](https://github.com/JAORMX/Writing-Netfilter-Modules-Tutorial)",
+              "This is the code for the tutorial/book named Writing Netfilter Modules",
+              ""
+            ],
+            [
+              "6",
+              "[@juhovh](https://github.com/juhovh)/[**spectrum**](https://github.com/juhovh/spectrum)",
+              "ZX Spectrum programming tutorial",
+              ""
+            ],
+            [
+              "5",
+              "[@penberg](https://github.com/penberg)/[**duhview**](https://github.com/penberg/duhview)",
+              "ANSI art viewer written in C and SDL",
+              ""
+            ],
+            [
+              "5",
+              "[@mstorsjo](https://github.com/mstorsjo)/[**vlc**](https://github.com/mstorsjo/vlc)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@juhovh](https://github.com/juhovh)/[**libasf**](https://github.com/juhovh/libasf)",
+              "libasf ASF parsing library",
+              ""
+            ],
+            [
+              "4",
+              "[@penberg](https://github.com/penberg)/[**wolf**](https://github.com/penberg/wolf)",
+              "Wolf, a raycasting engine for pseudo 3D games.",
+              ""
+            ],
+            [
+              "4",
+              "[@rsaarelm](https://github.com/rsaarelm)/[**telos**](https://github.com/rsaarelm/telos)",
+              "Turn-based wargame in C++11",
+              ""
+            ],
+            [
+              "3",
+              "[@jeeb](https://github.com/jeeb)/[**mpc-hc**](https://github.com/jeeb/mpc-hc)",
+              "MPC-HC git svn clone",
+              ""
+            ],
+            [
+              "3",
+              "[@jeeb](https://github.com/jeeb)/[**mpc-be**](https://github.com/jeeb/mpc-be)",
+              "Personal MPC-BE git svn clone",
+              ""
+            ],
+            [
+              "3",
+              "[@jeeb](https://github.com/jeeb)/[**mpegts**](https://github.com/jeeb/mpegts)",
+              "some herpy derpy mpeg-ts related code",
+              ""
+            ],
+            [
+              "3",
+              "[@rsaarelm](https://github.com/rsaarelm)/[**morlock-hunter**](https://github.com/rsaarelm/morlock-hunter)",
+              "7DRL 2014 contest entry",
+              ""
+            ],
+            [
+              "3",
+              "[@JAORMX](https://github.com/JAORMX)/[**TweetRemoteControl**](https://github.com/JAORMX/TweetRemoteControl)",
+              "Tweeter App to control your computer from Twitter.",
+              ""
+            ],
+            [
+              "3",
+              "[@Deraen](https://github.com/Deraen)/[**frakkin-xkb**](https://github.com/Deraen/frakkin-xkb)",
+              "Workaround to set XKB options whenever a new input device is connected",
+              ""
+            ],
+            [
+              "3",
+              "[@KonstaT](https://github.com/KonstaT)/[**android_kernel_zte_m…**](https://github.com/KonstaT/android_kernel_zte_msm7x27a)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@jeeb](https://github.com/jeeb)/[**ffdshow-tryouts**](https://github.com/jeeb/ffdshow-tryouts)",
+              "ffdshow-tryouts git svn clone",
+              ""
+            ],
+            [
+              "3",
+              "[@jvirtanen](https://github.com/jvirtanen)/[**dada**](https://github.com/jvirtanen/dada)",
+              "Generate tabular text data",
+              ""
+            ],
+            [
+              "3",
+              "[@tuomasjjrasanen](https://github.com/tuomasjjrasanen)/[**evdaemon**](https://github.com/tuomasjjrasanen/evdaemon)",
+              "Monitor and modify Linux event device activity and behaviour.",
+              ""
+            ],
+            [
+              "2",
+              "[@KonstaT](https://github.com/KonstaT)/[**android_kernel_zte_m…**](https://github.com/KonstaT/android_kernel_zte_msm8916)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jeeb](https://github.com/jeeb)/[**flac**](https://github.com/jeeb/flac)",
+              "my clone of http://git.xiph.org/?p=mirrors/flac.git;…",
+              ""
+            ],
+            [
+              "2",
+              "[@penberg](https://github.com/penberg)/[**cqlperf**](https://github.com/penberg/cqlperf)",
+              "cassandra-perf - a tool for measuring Cassandra query performance",
+              ""
+            ],
+            [
+              "2",
+              "[@tuomasjjrasanen](https://github.com/tuomasjjrasanen)/[**libm210**](https://github.com/tuomasjjrasanen/libm210)",
+              "This C library is now part of the M210 project",
+              "[:arrow_upper_right:](http://tjjr.fi/sw/m210/)"
+            ],
+            [
+              "2",
+              "[@jeeb](https://github.com/jeeb)/[**random**](https://github.com/jeeb/random)",
+              "Attempting science, for science. Nothing to see here.",
+              ""
+            ],
+            [
+              "2",
+              "[@chavezgu](https://github.com/chavezgu)/[**ken**](https://github.com/chavezgu/ken)",
+              "A compiler for the object oriented programming language called ken.",
+              ""
+            ],
+            [
+              "2",
+              "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**ebike-controller**](https://github.com/PetteriAimonen/ebike-controller)",
+              "Chibios-based ebike controller",
               ""
             ]
           ]
