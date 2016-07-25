@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2533,6 +2534,303 @@
               "2",
               "[@PetteriAimonen](https://github.com/PetteriAimonen)/[**ebike-controller**](https://github.com/PetteriAimonen/ebike-controller)",
               "Chibios-based ebike controller",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "291",
+              "[@fador](https://github.com/fador)/[**mineserver**](https://github.com/fador/mineserver)",
+              "Custom Minecraft server software written in C++ for Windows and Linux",
+              "[:arrow_upper_right:](http://mineserver.be/)"
+            ],
+            [
+              "168",
+              "[@scoopr](https://github.com/scoopr)/[**vectorial**](https://github.com/scoopr/vectorial)",
+              "Vector math library with NEON/SSE support",
+              ""
+            ],
+            [
+              "119",
+              "[@tonioni](https://github.com/tonioni)/[**WinUAE**](https://github.com/tonioni/WinUAE)",
+              "WinUAE Amiga emulator",
+              "[:arrow_upper_right:](http://www.winuae.net/)"
+            ],
+            [
+              "99",
+              "[@giucam](https://github.com/giucam)/[**orbital**](https://github.com/giucam/orbital)",
+              "A Wayland compositor based on Weston and Qt",
+              ""
+            ],
+            [
+              "29",
+              "[@jarikomppa](https://github.com/jarikomppa)/[**dxwrapper**](https://github.com/jarikomppa/dxwrapper)",
+              "DirectX 1-7 wrapper project for making old games run on new hardware",
+              ""
+            ],
+            [
+              "28",
+              "[@kimmoli](https://github.com/kimmoli)/[**tohkbd2**](https://github.com/kimmoli/tohkbd2)",
+              "",
+              ""
+            ],
+            [
+              "24",
+              "[@ttlappalainen](https://github.com/ttlappalainen)/[**NMEA2000**](https://github.com/ttlappalainen/NMEA2000)",
+              "NMEA2000 library for Arduino",
+              ""
+            ],
+            [
+              "24",
+              "[@kypeli](https://github.com/kypeli)/[**kQOAuth**](https://github.com/kypeli/kQOAuth)",
+              "kQOAuth is a library written in C++ for Qt that implements the OAuth 1.0 authentication specification RFC 5849 (http://tools.ietf.org/html/rfc5849).  Greetings go to Dominik Kapusta for writing the original OAuth library using Qt, QOAuth (http://blog.ayoy.net/2009/6/24/oauth). However, I wanted to improve on the QOAuth’s approach in some ways.  kQOAuth main features:      Easy integrated solution for retrieving user authentication and access token.     No external dependency to QCA.     Convenient signals that can be used for easy OAuth authorization process handling.     Access to request objects that will wrap request signing and network access, but still gives possibility for detailed control of the authentication process for easier integration to existing application logic. ",
+              ""
+            ],
+            [
+              "21",
+              "[@rambo](https://github.com/rambo)/[**I2C**](https://github.com/rambo/I2C)",
+              "Arduino I2C Master library (originally by Wayne Truchsess)",
+              ""
+            ],
+            [
+              "15",
+              "[@timowest](https://github.com/timowest)/[**analogue**](https://github.com/timowest/analogue)",
+              "Virtual Analogue synth in FAUST",
+              ""
+            ],
+            [
+              "15",
+              "[@scoopr](https://github.com/scoopr)/[**wtf8**](https://github.com/scoopr/wtf8)",
+              "Small utility functions for handling utf8",
+              ""
+            ],
+            [
+              "13",
+              "[@cadaver](https://github.com/cadaver)/[**turso3d**](https://github.com/cadaver/turso3d)",
+              "Experimental 3D / game engine",
+              ""
+            ],
+            [
+              "12",
+              "[@jarikomppa](https://github.com/jarikomppa)/[**escapi**](https://github.com/jarikomppa/escapi)",
+              "Extremely Simple Capture API (ESCAPI) - simple webcam API for windows",
+              ""
+            ],
+            [
+              "11",
+              "[@jarikomppa](https://github.com/jarikomppa)/[**img2spec**](https://github.com/jarikomppa/img2spec)",
+              "Image Spectrumizer - convert RGB images into zx spectrum -friendly data",
+              ""
+            ],
+            [
+              "10",
+              "[@jarikomppa](https://github.com/jarikomppa)/[**textgl**](https://github.com/jarikomppa/textgl)",
+              "Software rendered GL subset for text mode demos",
+              ""
+            ],
+            [
+              "7",
+              "[@timowest](https://github.com/timowest)/[**flute-lv2**](https://github.com/timowest/flute-lv2)",
+              "Waveguide based physical flute model",
+              ""
+            ],
+            [
+              "7",
+              "[@scoopr](https://github.com/scoopr)/[**specific**](https://github.com/scoopr/specific)",
+              "Minimal C++ spec framework",
+              ""
+            ],
+            [
+              "7",
+              "[@rambo](https://github.com/rambo)/[**SimpleFIFO**](https://github.com/rambo/SimpleFIFO)",
+              "Arduino SimpleFIFO library, originally http://code.google.com/u/alexanderbrevig…",
+              ""
+            ],
+            [
+              "6",
+              "[@katajakasa](https://github.com/katajakasa)/[**cbgp**](https://github.com/katajakasa/cbgp)",
+              "Code::blocks Git Plugin",
+              ""
+            ],
+            [
+              "6",
+              "[@noorus](https://github.com/noorus)/[**nil**](https://github.com/noorus/nil)",
+              "Gaming input library for Windows.",
+              ""
+            ],
+            [
+              "5",
+              "[@timowest](https://github.com/timowest)/[**flauta**](https://github.com/timowest/flauta)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@jarnoh](https://github.com/jarnoh)/[**qmlmidi**](https://github.com/jarnoh/qmlmidi)",
+              "MIDI plugin for Qt Quick.  Enables using MIDI input or output devices from declarative QML.",
+              ""
+            ],
+            [
+              "5",
+              "[@scoopr](https://github.com/scoopr)/[**auplay**](https://github.com/scoopr/auplay)",
+              "Minimalistic music/audio player for osx, using system decoding routines.",
+              ""
+            ],
+            [
+              "5",
+              "[@sisu](https://github.com/sisu)/[**ssort**](https://github.com/sisu/ssort)",
+              "string sorting",
+              ""
+            ],
+            [
+              "5",
+              "[@scoopr](https://github.com/scoopr)/[**autobuild**](https://github.com/scoopr/autobuild)",
+              "Dead simple automation",
+              ""
+            ],
+            [
+              "4",
+              "[@kimmoli](https://github.com/kimmoli)/[**toholed**](https://github.com/kimmoli/toholed)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@timowest](https://github.com/timowest)/[**supersaw**](https://github.com/timowest/supersaw)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@rambo](https://github.com/rambo)/[**pca9635**](https://github.com/rambo/pca9635)",
+              "Arduino library for controlling PCA9635 I2C LED drivers",
+              ""
+            ],
+            [
+              "3",
+              "[@Laizerox](https://github.com/Laizerox)/[**TheLife**](https://github.com/Laizerox/TheLife)",
+              "Learning Project",
+              ""
+            ],
+            [
+              "3",
+              "[@sisu](https://github.com/sisu)/[**taisto**](https://github.com/sisu/taisto)",
+              "Taistopeli",
+              ""
+            ],
+            [
+              "3",
+              "[@sisu](https://github.com/sisu)/[**jytky**](https://github.com/sisu/jytky)",
+              "Shoot 'em up for Android",
+              ""
+            ],
+            [
+              "3",
+              "[@kimmoli](https://github.com/kimmoli)/[**tohkbd-archive**](https://github.com/kimmoli/tohkbd-archive)",
+              "Jolla TOH keyboard",
+              ""
+            ],
+            [
+              "2",
+              "[@sisu](https://github.com/sisu)/[**latty**](https://github.com/sisu/latty)",
+              "Starcraft AI",
+              ""
+            ],
+            [
+              "2",
+              "[@ReaverTeknoGods](https://github.com/ReaverTeknoGods)/[**TeknoBorg**](https://github.com/ReaverTeknoGods/TeknoBorg)",
+              "This is all licensed under the GPLv3. No further development is planned. ",
+              ""
+            ],
+            [
+              "2",
+              "[@rambo](https://github.com/rambo)/[**i2c_sensor_lib**](https://github.com/rambo/i2c_sensor_lib)",
+              "Looking into building a hierarchical library for i2c sensors (for Arduino)",
+              ""
+            ],
+            [
+              "2",
+              "[@rambo](https://github.com/rambo)/[**mcp23017**](https://github.com/rambo/mcp23017)",
+              "Arduino library for MCP23017 16bit I/O expander",
+              ""
+            ],
+            [
+              "2",
+              "[@ReaverTeknoGods](https://github.com/ReaverTeknoGods)/[**TeknoR6Vegas2**](https://github.com/ReaverTeknoGods/TeknoR6Vegas2)",
+              "This is all licensed under the GPLv3. No further development is planned.",
+              ""
+            ],
+            [
+              "2",
+              "[@noorus](https://github.com/noorus)/[**glacier2**](https://github.com/noorus/glacier2)",
+              "Game engine rewrite.",
+              ""
+            ],
+            [
+              "2",
+              "[@noorus](https://github.com/noorus)/[**xnlib**](https://github.com/noorus/xnlib)",
+              "A tiny library for low-level x86/PE mischief.",
+              ""
+            ],
+            [
+              "2",
+              "[@kimmoli](https://github.com/kimmoli)/[**fmreceiver**](https://github.com/kimmoli/fmreceiver)",
+              "FM Receiver control application for Jolla FMTOH",
+              ""
+            ],
+            [
+              "2",
+              "[@ReaverTeknoGods](https://github.com/ReaverTeknoGods)/[**TeknoAVGN**](https://github.com/ReaverTeknoGods/TeknoAVGN)",
+              "This is all licensed under the GPLv3. No further development is planned. ",
+              ""
+            ],
+            [
+              "2",
+              "[@kimmoli](https://github.com/kimmoli)/[**letoh-app**](https://github.com/kimmoli/letoh-app)",
+              "OBSOLETE",
+              ""
+            ],
+            [
+              "2",
+              "[@jarikomppa](https://github.com/jarikomppa)/[**interjector**](https://github.com/jarikomppa/interjector)",
+              "C code instrumenting tool",
+              ""
+            ],
+            [
+              "2",
+              "[@jarikomppa](https://github.com/jarikomppa)/[**tiefighter-ddwrapper**](https://github.com/jarikomppa/tiefighter-ddwrapper)",
+              "DirectDraw wrapper for Star Wars - TIE Fighter (1998)",
+              ""
+            ],
+            [
+              "2",
+              "[@kimmoli](https://github.com/kimmoli)/[**tohiri-app**](https://github.com/kimmoli/tohiri-app)",
+              "OBSOLETE",
+              ""
+            ],
+            [
+              "2",
+              "[@kimmoli](https://github.com/kimmoli)/[**stm32-programmer**](https://github.com/kimmoli/stm32-programmer)",
+              "STM32 I2C Programmer for Jolla TOH",
+              ""
+            ],
+            [
+              "2",
+              "[@sisu](https://github.com/sisu)/[**qsonos**](https://github.com/sisu/qsonos)",
+              "Sonos desktop client using Qt",
               ""
             ]
           ]
