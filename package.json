@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -1236,6 +1237,789 @@
               "[@jhartikainen](https://github.com/jhartikainen)/[**planetside2-map-api**](https://github.com/jhartikainen/planetside2-map-api)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "12623",
+              "[@iluwatar](https://github.com/iluwatar)/[**java-design-patterns**](https://github.com/iluwatar/java-design-patterns)",
+              "Design patterns implemented in Java",
+              "[:arrow_upper_right:](http://java-design-patterns.com)"
+            ],
+            [
+              "3759",
+              "[@roughike](https://github.com/roughike)/[**BottomBar**](https://github.com/roughike/BottomBar)",
+              "A custom view component that mimics the new Material Design Bottom Navigation pattern.",
+              ""
+            ],
+            [
+              "2485",
+              "[@orfjackal](https://github.com/orfjackal)/[**retrolambda**](https://github.com/orfjackal/retrolambda)",
+              "Backport of Java 8's lambda expressions to Java 7, 6 and 5",
+              ""
+            ],
+            [
+              "621",
+              "[@roughike](https://github.com/roughike)/[**SwipeSelector**](https://github.com/roughike/SwipeSelector)",
+              "A nicer-looking, more intuitive and highly customizable alternative for radio buttons and dropdowns for Android.",
+              ""
+            ],
+            [
+              "261",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**spring-data-jpa-exam…**](https://github.com/pkainulainen/spring-data-jpa-examples)",
+              "",
+              ""
+            ],
+            [
+              "202",
+              "[@peholmst](https://github.com/peholmst)/[**vaadin4spring**](https://github.com/peholmst/vaadin4spring)",
+              "Vaadin integration for Spring and Spring Boot",
+              ""
+            ],
+            [
+              "186",
+              "[@orfjackal](https://github.com/orfjackal)/[**tdd-tetris-tutorial**](https://github.com/orfjackal/tdd-tetris-tutorial)",
+              "Tutorial for learning TDD. You make a Tetris game by writing code to pass the test cases. See README for instructions.",
+              "[:arrow_upper_right:](http://www.cs.helsinki.fi/u/luontola/tdd-2009/harjoitukset)"
+            ],
+            [
+              "177",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**spring-mvc-test-exam…**](https://github.com/pkainulainen/spring-mvc-test-examples)",
+              "",
+              ""
+            ],
+            [
+              "175",
+              "[@orfjackal](https://github.com/orfjackal)/[**idea-sbt-plugin**](https://github.com/orfjackal/idea-sbt-plugin)",
+              "IntelliJ IDEA plugin for integration with SBT (Simple Build Tool) in order to compile Scala projects easily and quickly.",
+              "[:arrow_upper_right:](http://plugins.intellij.net/plugin/?idea&id=5007)"
+            ],
+            [
+              "122",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**spring-social-exampl…**](https://github.com/pkainulainen/spring-social-examples)",
+              "",
+              ""
+            ],
+            [
+              "97",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**gradle-examples**](https://github.com/pkainulainen/gradle-examples)",
+              "",
+              ""
+            ],
+            [
+              "65",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**Examples**](https://github.com/pkainulainen/Examples)",
+              "A repository for the code examples of my blog",
+              "[:arrow_upper_right:](http://www.petrikainulainen.net)"
+            ],
+            [
+              "61",
+              "[@orfjackal](https://github.com/orfjackal)/[**jumi**](https://github.com/orfjackal/jumi)",
+              "Common test runner for the JVM. Natively supports running tests in parallel. Full stack from UI to class loading. Overcomes a bunch of limitations in JUnit's test runner, IDEs and build tools.",
+              "[:arrow_upper_right:](http://jumi.fi)"
+            ],
+            [
+              "54",
+              "[@orfjackal](https://github.com/orfjackal)/[**jumi-actors**](https://github.com/orfjackal/jumi-actors)",
+              "Actor library for Java to support concurrency and asynchronous event-driven programming.",
+              "[:arrow_upper_right:](http://jumi.fi/actors.html)"
+            ],
+            [
+              "39",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**spring-data-solr-exa…**](https://github.com/pkainulainen/spring-data-solr-examples)",
+              "",
+              ""
+            ],
+            [
+              "37",
+              "[@jouni](https://github.com/jouni)/[**bootstrap-for-vaadin**](https://github.com/jouni/bootstrap-for-vaadin)",
+              "Integrating Bootstrap CSS with Vaadin (proof-of-concept)",
+              "[:arrow_upper_right:](http://dev.jouni.me/bootstrap/)"
+            ],
+            [
+              "35",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**jooq-with-spring-exa…**](https://github.com/pkainulainen/jooq-with-spring-examples)",
+              "",
+              ""
+            ],
+            [
+              "34",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**spring-from-the-tren…**](https://github.com/pkainulainen/spring-from-the-trenches)",
+              "",
+              ""
+            ],
+            [
+              "33",
+              "[@orfjackal](https://github.com/orfjackal)/[**dimdwarf**](https://github.com/orfjackal/dimdwarf)",
+              "Distributed application server for Java. You write single-threaded, event-driven POJO code - the server makes it multi-threaded, persisted and transactional. Designed for the needs of online games. Compatible with Project Darkstar (now RedDwarf). [INACTIVE]",
+              ""
+            ],
+            [
+              "33",
+              "[@tehapo](https://github.com/tehapo)/[**Clara**](https://github.com/tehapo/Clara)",
+              "Declarative UI and bindings for Vaadin Framework",
+              ""
+            ],
+            [
+              "31",
+              "[@peholmst](https://github.com/peholmst)/[**VaadinActivitiDemo**](https://github.com/peholmst/VaadinActivitiDemo)",
+              "NOTE! THIS IS NOT THE APPLICATION WE DEMONSTRATED AT DEVOXX 2011!! An example Vaadin application built on top of the Activiti BPM platform.",
+              ""
+            ],
+            [
+              "31",
+              "[@mstahv](https://github.com/mstahv)/[**v-leaflet**](https://github.com/mstahv/v-leaflet)",
+              "Leaflet add-on for Vaadin",
+              ""
+            ],
+            [
+              "28",
+              "[@mstahv](https://github.com/mstahv)/[**spring-data-vaadin-c…**](https://github.com/mstahv/spring-data-vaadin-crud)",
+              "A super simple single table CRUD example with Spring Data JPA and Vaadin.",
+              ""
+            ],
+            [
+              "28",
+              "[@mstahv](https://github.com/mstahv)/[**jpa-invoicer**](https://github.com/mstahv/jpa-invoicer)",
+              "Java EE, JPA, Vaadin example app",
+              "[:arrow_upper_right:](vaadin.com)"
+            ],
+            [
+              "25",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**java-advent-2014**](https://github.com/pkainulainen/java-advent-2014)",
+              "",
+              ""
+            ],
+            [
+              "22",
+              "[@tehapo](https://github.com/tehapo)/[**WizardsForVaadin**](https://github.com/tehapo/WizardsForVaadin)",
+              "Wizards for Vaadin add-on",
+              ""
+            ],
+            [
+              "20",
+              "[@peholmst](https://github.com/peholmst)/[**MVP4Vaadin**](https://github.com/peholmst/MVP4Vaadin)",
+              "A small Model-View-Presenter addon for Vaadin applications",
+              ""
+            ],
+            [
+              "16",
+              "[@mikakoivisto](https://github.com/mikakoivisto)/[**liferay-maven-incuba…**](https://github.com/mikakoivisto/liferay-maven-incubation)",
+              "LEGACY Liferay Maven Incubation Project. http://github.com/liferay/liferay-maven-… is now the official project. No more development will be done on this project. ",
+              ""
+            ],
+            [
+              "16",
+              "[@peholmst](https://github.com/peholmst)/[**ActivitiVaadinDevoxx…**](https://github.com/peholmst/ActivitiVaadinDevoxx11)",
+              "Example Activiti+Vaadin application to be demonstrated at Devoxx 2011",
+              ""
+            ],
+            [
+              "16",
+              "[@huberflores](https://github.com/huberflores)/[**XMPPNotificationServ…**](https://github.com/huberflores/XMPPNotificationServer)",
+              "Interoperable notification solution for smartphones",
+              ""
+            ],
+            [
+              "15",
+              "[@peholmst](https://github.com/peholmst)/[**SpringSecurityDemo**](https://github.com/peholmst/SpringSecurityDemo)",
+              "An example application demonstrating how to use Spring Security in a Vaadin application",
+              ""
+            ],
+            [
+              "15",
+              "[@orfjackal](https://github.com/orfjackal)/[**specsy**](https://github.com/orfjackal/specsy)",
+              "BDD-style unit-level testing framework for Scala. Safely isolates mutable state. Supports writing self-documenting tests/specifications.",
+              "[:arrow_upper_right:](http://specsy.org)"
+            ],
+            [
+              "14",
+              "[@mstahv](https://github.com/mstahv)/[**consuming-rest-apis**](https://github.com/mstahv/consuming-rest-apis)",
+              "A simple JAX-RS Client usage example. Fetches weather data from a openweathermap.org and displays that on a simple Vaadin UI.",
+              ""
+            ],
+            [
+              "14",
+              "[@samie](https://github.com/samie)/[**VaadinTetris**](https://github.com/samie/VaadinTetris)",
+              "Vaadin + HTML 5 Demo for JavaDay Riga 2011",
+              ""
+            ],
+            [
+              "12",
+              "[@mstahv](https://github.com/mstahv)/[**jpa-helper-libraries**](https://github.com/mstahv/jpa-helper-libraries)",
+              "Example project for various JPA helper libraries",
+              ""
+            ],
+            [
+              "11",
+              "[@huberflores](https://github.com/huberflores)/[**XMPPNotificationClie…**](https://github.com/huberflores/XMPPNotificationClient)",
+              "Android Client for XMPP-based Notification Service",
+              ""
+            ],
+            [
+              "11",
+              "[@mstahv](https://github.com/mstahv)/[**g-leaflet**](https://github.com/mstahv/g-leaflet)",
+              "Simple javascript overlay based GWT API for Leaflet",
+              ""
+            ],
+            [
+              "10",
+              "[@peholmst](https://github.com/peholmst)/[**I18N4Vaadin**](https://github.com/peholmst/I18N4Vaadin)",
+              "A small I18N addon for Vaadin applications",
+              ""
+            ],
+            [
+              "10",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**spring-batch-example…**](https://github.com/pkainulainen/spring-batch-examples)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**spring-data-apache-h…**](https://github.com/pkainulainen/spring-data-apache-hadoop-examples)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@samie](https://github.com/samie)/[**Vaadin-ConfirmDialog**](https://github.com/samie/Vaadin-ConfirmDialog)",
+              "ConfirmDialog Add-on for the Vaadin Framework",
+              "[:arrow_upper_right:](http://vaadin.com/addon/confirmdialog)"
+            ],
+            [
+              "10",
+              "[@peholmst](https://github.com/peholmst)/[**vaadin-spring-webina…**](https://github.com/peholmst/vaadin-spring-webinar)",
+              "Example code for the Spring + Vaadin webinar",
+              ""
+            ],
+            [
+              "10",
+              "[@mstahv](https://github.com/mstahv)/[**jpa-addressbook**](https://github.com/mstahv/jpa-addressbook)",
+              "This is a simple example application about creating JPA backed Java EE application with rich Vaadin based UI.",
+              ""
+            ],
+            [
+              "9",
+              "[@jouni](https://github.com/jouni)/[**Animator**](https://github.com/jouni/Animator)",
+              "General purpose animation add-on for Vaadin. Animate any component directly from the server side.",
+              "[:arrow_upper_right:](http://vaadin.com/addon/animator)"
+            ],
+            [
+              "9",
+              "[@peholmst](https://github.com/peholmst)/[**Neo4jVaadinDemo**](https://github.com/peholmst/Neo4jVaadinDemo)",
+              "A project that demonstrates how to build Vaadin applications that use the Neo4j graph database",
+              ""
+            ],
+            [
+              "8",
+              "[@orfjackal](https://github.com/orfjackal)/[**extformatter**](https://github.com/orfjackal/extformatter)",
+              "External Code Formatter, an IntelliJ IDEA plugin. [UNMAINTAINED]",
+              "[:arrow_upper_right:](http://plugins.intellij.net/plugin/?id=1605)"
+            ],
+            [
+              "8",
+              "[@mstahv](https://github.com/mstahv)/[**bootiful-neo4j-with-…**](https://github.com/mstahv/bootiful-neo4j-with-vaadin)",
+              "Example/learning project for neo4j + spring-data + vaadin integration",
+              ""
+            ],
+            [
+              "8",
+              "[@mstahv](https://github.com/mstahv)/[**ejb-swing-vaadin-cru…**](https://github.com/mstahv/ejb-swing-vaadin-crud)",
+              "An example application that shows how Swing and Vaadin based apps can share the most essential parts of the application.",
+              "[:arrow_upper_right:](https://vaadin.com/swing)"
+            ],
+            [
+              "8",
+              "[@vschafer](https://github.com/vschafer)/[**ssl-extractor**](https://github.com/vschafer/ssl-extractor)",
+              "A simple Java application which connects to an SSL/TLS port and extracts all certificates presented by the server to PEM formatted files.",
+              ""
+            ],
+            [
+              "7",
+              "[@mstahv](https://github.com/mstahv)/[**vaadin-in-akka**](https://github.com/mstahv/vaadin-in-akka)",
+              "Akka Reactive Stocks example with Vaadin UI",
+              ""
+            ],
+            [
+              "6",
+              "[@DrJukka](https://github.com/DrJukka)/[**MyWifiMesh**](https://github.com/DrJukka/MyWifiMesh)",
+              "Wifi direct test app, using Group AP to connect without any UX required",
+              ""
+            ],
+            [
+              "6",
+              "[@orfjackal](https://github.com/orfjackal)/[**visualvm4idea**](https://github.com/orfjackal/visualvm4idea)",
+              "VisualVM Profiler, an IntelliJ IDEA plugin. [UNMAINTAINED]",
+              "[:arrow_upper_right:](http://plugins.intellij.net/plugin/?id=3749)"
+            ],
+            [
+              "6",
+              "[@mstahv](https://github.com/mstahv)/[**tindratracker**](https://github.com/mstahv/tindratracker)",
+              "A simple mobile oriented Vaadin web app that can track devices carrying small GPS-GSM dongles.",
+              ""
+            ],
+            [
+              "6",
+              "[@mstahv](https://github.com/mstahv)/[**vleafletexample**](https://github.com/mstahv/vleafletexample)",
+              "Example project that uses v-leaflet to edit JPA entities in a basic Vaadin app",
+              ""
+            ],
+            [
+              "6",
+              "[@mstahv](https://github.com/mstahv)/[**vodatime**](https://github.com/mstahv/vodatime)",
+              "Vaadin add-on supporting JodaTime as an example of perfect add-on build",
+              ""
+            ],
+            [
+              "5",
+              "[@mikakoivisto](https://github.com/mikakoivisto)/[**photo-carousel-portl…**](https://github.com/mikakoivisto/photo-carousel-portlet)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@huberflores](https://github.com/huberflores)/[**CodeOffloadingAnnota…**](https://github.com/huberflores/CodeOffloadingAnnotations)",
+              "Framework that implements code offloading with annotations based on Android",
+              ""
+            ],
+            [
+              "5",
+              "[@jouni](https://github.com/jouni)/[**Snappy**](https://github.com/jouni/Snappy)",
+              "Client/browser-only actions/events for Vaadin",
+              "[:arrow_upper_right:](https://vaadin.com/addon/snappy)"
+            ],
+            [
+              "5",
+              "[@jouni](https://github.com/jouni)/[**DashLayout**](https://github.com/jouni/DashLayout)",
+              "Flexible and efficient layouts for Vaadin",
+              "[:arrow_upper_right:](http://vaadin.com/addon/dashlayout)"
+            ],
+            [
+              "5",
+              "[@mstahv](https://github.com/mstahv)/[**spring-boot-vaadin-e…**](https://github.com/mstahv/spring-boot-vaadin-example)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@jouni](https://github.com/jouni)/[**CSSInject**](https://github.com/jouni/CSSInject)",
+              "Dynamic CSS injection add-on for Vaadin",
+              "[:arrow_upper_right:](http://vaadin.com/addon/cssinject)"
+            ],
+            [
+              "5",
+              "[@ThibWeb](https://github.com/ThibWeb)/[**d4**](https://github.com/ThibWeb/d4)",
+              "D4 is a Datalift module to visualize RDF DataCube data. Built with Bootstrap, D3 and CoffeeScript.",
+              ""
+            ],
+            [
+              "4",
+              "[@orfjackal](https://github.com/orfjackal)/[**puzzle-warrior**](https://github.com/orfjackal/puzzle-warrior)",
+              "Hyper Puzzle Warrior XVII Ultra - a \"Super Puzzle Fighter II Turbo\" clone. [DRAFT]",
+              ""
+            ],
+            [
+              "4",
+              "[@tehapo](https://github.com/tehapo)/[**JsonContainer**](https://github.com/tehapo/JsonContainer)",
+              "JsonContainer for Vaadin",
+              "[:arrow_upper_right:](http://teemu.virtuallypreinstalled.com/JsonContainer)"
+            ],
+            [
+              "4",
+              "[@mstahv](https://github.com/mstahv)/[**cdi-helpers**](https://github.com/mstahv/cdi-helpers)",
+              "A library containing handy helpers for Vaadin CDI applications.",
+              ""
+            ],
+            [
+              "4",
+              "[@mstahv](https://github.com/mstahv)/[**v-leaflet-shramov-pa…**](https://github.com/mstahv/v-leaflet-shramov-parent)",
+              "Vaadin&GWT wrappers for \"shramov\" leaflet plugins",
+              ""
+            ],
+            [
+              "4",
+              "[@mstahv](https://github.com/mstahv)/[**easyuploads**](https://github.com/mstahv/easyuploads)",
+              "Vaadin 7 compatible version of EasyUploads Add-On",
+              ""
+            ],
+            [
+              "4",
+              "[@mstahv](https://github.com/mstahv)/[**java-ee7-app-stub**](https://github.com/mstahv/java-ee7-app-stub)",
+              "Lightweight Java EE apps stub using Vaadin CDI",
+              ""
+            ],
+            [
+              "4",
+              "[@vschafer](https://github.com/vschafer)/[**spring-security-saml…**](https://github.com/vschafer/spring-security-saml-gae)",
+              "Project enables deployment of Spring SAML applications in Google Application Engine.",
+              ""
+            ],
+            [
+              "4",
+              "[@orfjackal](https://github.com/orfjackal)/[**sgs-server**](https://github.com/orfjackal/sgs-server)",
+              "Project Darkstar Server Core. Git mirror of sgs-server's SVN repository, trunk only. GPL 2.0 License.",
+              "[:arrow_upper_right:](https://sgs-server.dev.java.net/)"
+            ],
+            [
+              "3",
+              "[@huberflores](https://github.com/huberflores)/[**AndroidSensorSimulat…**](https://github.com/huberflores/AndroidSensorSimulator)",
+              "Some examples about how to use sensor simulator with Android emulator",
+              ""
+            ],
+            [
+              "3",
+              "[@peholmst](https://github.com/peholmst)/[**VaadinSpringSerializ…**](https://github.com/peholmst/VaadinSpringSerializationExperiment)",
+              "Spring-powered Vaadin application that supports session serialization without AspectJ",
+              ""
+            ],
+            [
+              "3",
+              "[@huberflores](https://github.com/huberflores)/[**GCMClient**](https://github.com/huberflores/GCMClient)",
+              "Google Cloud Messaging (GCM) client for Android",
+              ""
+            ],
+            [
+              "3",
+              "[@rase-](https://github.com/rase-)/[**ohtu-miniprojekti**](https://github.com/rase-/ohtu-miniprojekti)",
+              "BibTeX viitejärjestelmä",
+              ""
+            ],
+            [
+              "3",
+              "[@mikakoivisto](https://github.com/mikakoivisto)/[**akismet-java**](https://github.com/mikakoivisto/akismet-java)",
+              "Simple java implementation of Akismet comment spam checking rest api",
+              ""
+            ],
+            [
+              "3",
+              "[@tehapo](https://github.com/tehapo)/[**webcam**](https://github.com/tehapo/webcam)",
+              "HTML5 Webcam for Vaadin",
+              ""
+            ],
+            [
+              "3",
+              "[@tehapo](https://github.com/tehapo)/[**Switch**](https://github.com/tehapo/Switch)",
+              "Switch Component for Vaadin",
+              ""
+            ],
+            [
+              "3",
+              "[@tehapo](https://github.com/tehapo)/[**Geolocation**](https://github.com/tehapo/Geolocation)",
+              "Vaadin add-on for accessing the Geolocation API.",
+              "[:arrow_upper_right:](http://vaadin.com/addon/geolocation)"
+            ],
+            [
+              "3",
+              "[@peholmst](https://github.com/peholmst)/[**ddd-webinar**](https://github.com/peholmst/ddd-webinar)",
+              "Sample application for an upcoming Vaadin Webinar about DDD.",
+              ""
+            ],
+            [
+              "3",
+              "[@huberflores](https://github.com/huberflores)/[**MobileInteractionCol…**](https://github.com/huberflores/MobileInteractionCollector)",
+              "Touch and gesture data collection application for measuring quality of experience of the mobile user",
+              ""
+            ],
+            [
+              "3",
+              "[@mstahv](https://github.com/mstahv)/[**diagram-builder**](https://github.com/mstahv/diagram-builder)",
+              "Vaadin Add-on built over ALLOYUI DiagramBuilder",
+              ""
+            ],
+            [
+              "3",
+              "[@mstahv](https://github.com/mstahv)/[**vaadinized-tomee-jee…**](https://github.com/mstahv/vaadinized-tomee-jee6-app-stub)",
+              "An example how to switch a simple faces built UI into modern RIA UI using Vaadin",
+              ""
+            ],
+            [
+              "3",
+              "[@orfjackal](https://github.com/orfjackal)/[**idea-config**](https://github.com/orfjackal/idea-config)",
+              "My configs for IntelliJ IDEA (~/.IntelliJIdeaXX/config)",
+              "[:arrow_upper_right:](http://www.jetbrains.com/idea/)"
+            ],
+            [
+              "3",
+              "[@mstahv](https://github.com/mstahv)/[**g-leaflet-draw**](https://github.com/mstahv/g-leaflet-draw)",
+              "Java (GWT) API for Leaflet.Draw ",
+              ""
+            ],
+            [
+              "3",
+              "[@orfjackal](https://github.com/orfjackal)/[**classmembersorter**](https://github.com/orfjackal/classmembersorter)",
+              "Sorts Java's Method and Class objects according to their actual source code line numbers.",
+              ""
+            ],
+            [
+              "3",
+              "[@mstahv](https://github.com/mstahv)/[**v-quiz**](https://github.com/mstahv/v-quiz)",
+              "A simple Quiz game implemented with Vaadin and Wildfly",
+              ""
+            ],
+            [
+              "3",
+              "[@jouni](https://github.com/jouni)/[**DOM**](https://github.com/jouni/DOM)",
+              "Vaadin add-on for manipulating widget element attributes",
+              "[:arrow_upper_right:](http://vaadin.com/addon/dom)"
+            ],
+            [
+              "3",
+              "[@pkainulainen](https://github.com/pkainulainen)/[**asciidoctor-with-spr…**](https://github.com/pkainulainen/asciidoctor-with-spring-examples)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@samie](https://github.com/samie)/[**tinkerforge**](https://github.com/samie/tinkerforge)",
+              "Some IoT Dashboarding",
+              ""
+            ],
+            [
+              "3",
+              "[@jouni](https://github.com/jouni)/[**ToolbarWindow**](https://github.com/jouni/ToolbarWindow)",
+              "ToolbarWindow add-on for Vaadin. Allows placing of any Vaadin components in the sub-window header area.",
+              "[:arrow_upper_right:](http://vaadin.com/addon/toolbarwindow)"
+            ],
+            [
+              "3",
+              "[@samie](https://github.com/samie)/[**bluemix-mqtt-dashboa…**](https://github.com/samie/bluemix-mqtt-dashboard)",
+              "MQTT dashboard example for IBM Bluemix",
+              ""
+            ],
+            [
+              "3",
+              "[@huberflores](https://github.com/huberflores)/[**MobileCloudMiddlewar…**](https://github.com/huberflores/MobileCloudMiddleware)",
+              "Service-oriented middleware for mobile task delegation",
+              ""
+            ],
+            [
+              "3",
+              "[@mstahv](https://github.com/mstahv)/[**rwdpj**](https://github.com/mstahv/rwdpj)",
+              "A Vaadin example project that presents some \"Responsive Web Design\" implemented with human readable Java code instead of html and Css haxies.",
+              ""
+            ],
+            [
+              "2",
+              "[@orfjackal](https://github.com/orfjackal)/[**pommac**](https://github.com/orfjackal/pommac)",
+              "Utility for generating Maven POM files. [DRAFT]",
+              ""
+            ],
+            [
+              "2",
+              "[@tehapo](https://github.com/tehapo)/[**RatingStars**](https://github.com/tehapo/RatingStars)",
+              "RatingStars add-on for Vaadin",
+              "[:arrow_upper_right:](http://teemu.virtuallypreinstalled.com/RatingStars)"
+            ],
+            [
+              "2",
+              "[@DrJukka](https://github.com/DrJukka)/[**BLETestStuff**](https://github.com/DrJukka/BLETestStuff)",
+              "some test stuff for BLE",
+              ""
+            ],
+            [
+              "2",
+              "[@DrJukka](https://github.com/DrJukka)/[**WifiUPnPTestApp**](https://github.com/DrJukka/WifiUPnPTestApp)",
+              "Test app for service advertisement & discovery utilizing the UPnP with Wifi Direct API on Android",
+              ""
+            ],
+            [
+              "2",
+              "[@mikakoivisto](https://github.com/mikakoivisto)/[**social-comments-port…**](https://github.com/mikakoivisto/social-comments-portlet)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@tehapo](https://github.com/tehapo)/[**Geolocation-demo**](https://github.com/tehapo/Geolocation-demo)",
+              "Demo application for the Geolocation add-on.",
+              "[:arrow_upper_right:](http://teemu.virtuallypreinstalled.com/GeoLocation)"
+            ],
+            [
+              "2",
+              "[@vpeurala](https://github.com/vpeurala)/[**JRetrofit**](https://github.com/vpeurala/JRetrofit)",
+              "A pure Java library for adding interfaces to existing classes at runtime without bytecode manipulation",
+              "[:arrow_upper_right:](http://www.jretrofit.org)"
+            ],
+            [
+              "2",
+              "[@vpeurala](https://github.com/vpeurala)/[**JReflect**](https://github.com/vpeurala/JReflect)",
+              "Simple and easy reflection API for Java.",
+              "[:arrow_upper_right:](www.jreflect.org)"
+            ],
+            [
+              "2",
+              "[@peholmst](https://github.com/peholmst)/[**aphatos**](https://github.com/peholmst/aphatos)",
+              "A glossary application designed to help people with aphasia to write texts on a computer. The software was originally written in 2009.",
+              "[:arrow_upper_right:](http://users.abo.fi/peholmst/aphaglossary/)"
+            ],
+            [
+              "2",
+              "[@peholmst](https://github.com/peholmst)/[**Stuff4Vaadin**](https://github.com/peholmst/Stuff4Vaadin)",
+              "Various utility classes that I use in my Vaadin addons. Several of them can be used outside of Vaadin as well.",
+              ""
+            ],
+            [
+              "2",
+              "[@orfjackal](https://github.com/orfjackal)/[**reddwarf-server**](https://github.com/orfjackal/reddwarf-server)",
+              "Git mirror of reddwarf/sgs-server",
+              "[:arrow_upper_right:](https://reddwarf.svn.sourceforge.net/svnroot/reddwarf/sgs-server/trunk/)"
+            ],
+            [
+              "2",
+              "[@peholmst](https://github.com/peholmst)/[**modularappexample**](https://github.com/peholmst/modularappexample)",
+              "Example how to create a modular Vaadin application using either SPI or CDI",
+              ""
+            ],
+            [
+              "2",
+              "[@orfjackal](https://github.com/orfjackal)/[**thematrixtime**](https://github.com/orfjackal/thematrixtime)",
+              "Slows down or speeds up the system clock. [UNMAINTAINED]",
+              ""
+            ],
+            [
+              "2",
+              "[@peholmst](https://github.com/peholmst)/[**VerySimpleI18N**](https://github.com/peholmst/VerySimpleI18N)",
+              "Example of how I18N can be implemented in a Vaadin application without any third-party libraries.",
+              ""
+            ],
+            [
+              "2",
+              "[@samie](https://github.com/samie)/[**touchkit-sampler**](https://github.com/samie/touchkit-sampler)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@peholmst](https://github.com/peholmst)/[**archetypes**](https://github.com/peholmst/archetypes)",
+              "Maven archetypes for my most common project setups",
+              ""
+            ],
+            [
+              "2",
+              "[@samie](https://github.com/samie)/[**vaadin-ga-tracker**](https://github.com/samie/vaadin-ga-tracker)",
+              "Vaadin Google Analytics Tracker",
+              ""
+            ],
+            [
+              "2",
+              "[@huberflores](https://github.com/huberflores)/[**MobileFuzzyModel**](https://github.com/huberflores/MobileFuzzyModel)",
+              "Offloading engine based on Fuzzy logic",
+              ""
+            ],
+            [
+              "2",
+              "[@samie](https://github.com/samie)/[**runnable-jar-vaadin**](https://github.com/samie/runnable-jar-vaadin)",
+              "Runnable, single-jar Vaadin application",
+              ""
+            ],
+            [
+              "2",
+              "[@huberflores](https://github.com/huberflores)/[**GCMServer**](https://github.com/huberflores/GCMServer)",
+              "Google Cloud Messaging (GCM) Web server side",
+              ""
+            ],
+            [
+              "2",
+              "[@orfjackal](https://github.com/orfjackal)/[**weenyconsole**](https://github.com/orfjackal/weenyconsole)",
+              "Command line interface which executes methods on a POJO.",
+              ""
+            ],
+            [
+              "2",
+              "[@huberflores](https://github.com/huberflores)/[**MeshOffloading**](https://github.com/huberflores/MeshOffloading)",
+              "Code offloading for graphics",
+              ""
+            ],
+            [
+              "2",
+              "[@orfjackal](https://github.com/orfjackal)/[**misc-tools**](https://github.com/orfjackal/misc-tools)",
+              "Chaotic pile of small utility classes and experiments.",
+              ""
+            ],
+            [
+              "2",
+              "[@jouni](https://github.com/jouni)/[**TodoMVC**](https://github.com/jouni/TodoMVC)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@rase-](https://github.com/rase-)/[**wad**](https://github.com/rase-/wad)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jouni](https://github.com/jouni)/[**vaadin-theme-trainin…**](https://github.com/jouni/vaadin-theme-training)",
+              "A simple Twitter search client for theme training purposes",
+              ""
+            ],
+            [
+              "2",
+              "[@jouni](https://github.com/jouni)/[**SimpleLayout**](https://github.com/jouni/SimpleLayout)",
+              "Simple and designer friendly layout add-on for Vaadin",
+              ""
+            ],
+            [
+              "2",
+              "[@mstahv](https://github.com/mstahv)/[**watson-java-api**](https://github.com/mstahv/watson-java-api)",
+              "This project provides a clean Java API to Watson. Example project uses Vaadin UI.",
+              ""
+            ],
+            [
+              "2",
+              "[@jouni](https://github.com/jouni)/[**CSS-Tools**](https://github.com/jouni/CSS-Tools)",
+              "CSS and style utilities for client side (GWT) widget development",
+              ""
+            ],
+            [
+              "2",
+              "[@mstahv](https://github.com/mstahv)/[**bluemix-challenge-st…**](https://github.com/mstahv/bluemix-challenge-starter)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jouni](https://github.com/jouni)/[**GWT.create-workshop**](https://github.com/jouni/GWT.create-workshop)",
+              "Source code for the Responsive Layouts with Vaadin and Sass workshop",
+              ""
+            ],
+            [
+              "2",
+              "[@mstahv](https://github.com/mstahv)/[**v-leaflet-draw**](https://github.com/mstahv/v-leaflet-draw)",
+              "Leaflet.Draw wrapper for Vaadin",
+              ""
+            ],
+            [
+              "2",
+              "[@orfjackal](https://github.com/orfjackal)/[**text-adventure**](https://github.com/orfjackal/text-adventure)",
+              "Small example application, a typical homework assignment. Coding this app has been screencasted - see the below web site.",
+              "[:arrow_upper_right:](http://www.orfjackal.net/lets-code#text-adventure)"
+            ],
+            [
+              "2",
+              "[@mstahv](https://github.com/mstahv)/[**vaadin-java-ee-essen…**](https://github.com/mstahv/vaadin-java-ee-essentials-example)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jouni](https://github.com/jouni)/[**WeeLayout**](https://github.com/jouni/WeeLayout)",
+              "WeeLayout add-on for Vaadin. Fast and flexible layouting.",
+              "[:arrow_upper_right:](http://vaadin.com/addon/weelayout)"
             ]
           ]
         }
