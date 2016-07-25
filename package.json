@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -2177,6 +2178,27 @@
               "6",
               "[@ohanhi](https://github.com/ohanhi)/[**minimoka-gnome-shell**](https://github.com/ohanhi/minimoka-gnome-shell)",
               "Minimalistic Gnome Shell Theme",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@romandunets](https://github.com/romandunets)/[**php-mvc**](https://github.com/romandunets/php-mvc)",
+              "Small Customized PHP MVC-Framework",
               ""
             ]
           ]
