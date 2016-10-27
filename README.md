@@ -24,6 +24,7 @@
 3066 | [@epeli](https://github.com/epeli)/[**underscore.string**](https://github.com/epeli/underscore.string) | String manipulation helpers for javascript | [:arrow_upper_right:](http://epeli.github.com/underscore.string/)
 1912 | [@pakastin](https://github.com/pakastin)/[**deck-of-cards**](https://github.com/pakastin/deck-of-cards) | HTML5 Deck of Cards | [:arrow_upper_right:](https://deck-of-cards.js.org/)
 1478 | [@jaukia](https://github.com/jaukia)/[**zoomooz**](https://github.com/jaukia/zoomooz) | An easy-to-use jQuery plugin for making zooming web pages. | [:arrow_upper_right:](http://janne.aukia.com/zoomooz/)
+1012 | [@SC5](https://github.com/SC5)/[sc5-styleguide](https://github.com/sc5/sc5-styleguide) | Handy little tool that helps you generate good looking styleguides from stylesheets using KSS notation | [:arrow_upper_right:](http://styleguide.sc5.io/)
 587 | [@niklasvh](https://github.com/niklasvh)/[**feedback.js**](https://github.com/niklasvh/feedback.js) | Feedback form with screenshot | [:arrow_upper_right:](http://experiments.hertzen.com/jsfeedback/)
 495 | [@ekelokorpi](https://github.com/ekelokorpi)/[**panda.js-engine**](https://github.com/ekelokorpi/panda.js-engine) | Panda Engine: 2D HTML5 game engine for mobile and desktop | [:arrow_upper_right:](http://www.pandajs.net)
 420 | [@bebraw](https://github.com/bebraw)/[**colorjoe**](https://github.com/bebraw/colorjoe) | Scaleable color picker with touch and AMD support (MIT) | [:arrow_upper_right:](http://bebraw.github.io/colorjoe/)
