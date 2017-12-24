@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -18,6 +19,7 @@
  - [C++](#c-2)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11711 | [@petkaantonov](https://github.com/petkaantonov)/[**bluebird**](https://github.com/petkaantonov/bluebird) | :bird: :zap: Bluebird is a full featured promise library with unmatched performance. | [:arrow_upper_right:](http://bluebirdjs.com)
@@ -220,7 +222,9 @@ Non-Unite install: Copy templates/tankwar.html to public_html. Open copied file 
 2 | [@kpuputti](https://github.com/kpuputti)/[**twittericsson**](https://github.com/kpuputti/twittericsson) | Twitter client |
 2 | [@raimohanska](https://github.com/raimohanska)/[**enocean-keen**](https://github.com/raimohanska/enocean-keen) |  |
 2 | [@jhartikainen](https://github.com/jhartikainen)/[**planetside2-map-api**](https://github.com/jhartikainen/planetside2-map-api) |  |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 12623 | [@iluwatar](https://github.com/iluwatar)/[**java-design-patterns**](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java | [:arrow_upper_right:](http://java-design-patterns.com)
@@ -351,7 +355,9 @@ Non-Unite install: Copy templates/tankwar.html to public_html. Open copied file 
 2 | [@orfjackal](https://github.com/orfjackal)/[**text-adventure**](https://github.com/orfjackal/text-adventure) | Small example application, a typical homework assignment. Coding this app has been screencasted - see the below web site. | [:arrow_upper_right:](http://www.orfjackal.net/lets-code#text-adventure)
 2 | [@mstahv](https://github.com/mstahv)/[**vaadin-java-ee-essen…**](https://github.com/mstahv/vaadin-java-ee-essentials-example) |  |
 2 | [@jouni](https://github.com/jouni)/[**WeeLayout**](https://github.com/jouni/WeeLayout) | WeeLayout add-on for Vaadin. Fast and flexible layouting. | [:arrow_upper_right:](http://vaadin.com/addon/weelayout)
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 236 | [@JuhaKiili](https://github.com/JuhaKiili)/[**RagePixel**](https://github.com/JuhaKiili/RagePixel) | 2D Pixelart Toolkit for Unity3D | [:arrow_upper_right:](http://ragepixel.com)
@@ -373,16 +379,22 @@ Non-Unite install: Copy templates/tankwar.html to public_html. Open copied file 
 2 | [@paavohuhtala](https://github.com/paavohuhtala)/[**CCE**](https://github.com/paavohuhtala/CCE) | Cities Compiler Extender. More APIs in scripting mods without using an external compiler. |
 2 | [@am11](https://github.com/am11)/[**RectanglePacker**](https://github.com/am11/RectanglePacker) | Fast Optimizing Rectangle Packing Algorithm for Building CSS Sprites |
 2 | [@mikkopa](https://github.com/mikkopa)/[**Taiga**](https://github.com/mikkopa/Taiga) | realXtend taiga branch |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 19 | [@ohanhi](https://github.com/ohanhi)/[**svg-css-backgrounds**](https://github.com/ohanhi/svg-css-backgrounds) | Multicolor SVGs as CSS backgrounds | [:arrow_upper_right:](http://ohanhi.github.io/svg-css-backgrounds/)
 6 | [@ohanhi](https://github.com/ohanhi)/[**minimoka-gnome-shell**](https://github.com/ohanhi/minimoka-gnome-shell) | Minimalistic Gnome Shell Theme |
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@romandunets](https://github.com/romandunets)/[**php-mvc**](https://github.com/romandunets/php-mvc) | Small Customized PHP MVC-Framework |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 336 | [@juhovh](https://github.com/juhovh)/[**shairplay**](https://github.com/juhovh/shairplay) | Apple airplay and raop protocol server |
@@ -438,7 +450,9 @@ Non-Unite install: Copy templates/tankwar.html to public_html. Open copied file 
 2 | [@jeeb](https://github.com/jeeb)/[**random**](https://github.com/jeeb/random) | Attempting science, for science. Nothing to see here. |
 2 | [@chavezgu](https://github.com/chavezgu)/[**ken**](https://github.com/chavezgu/ken) | A compiler for the object oriented programming language called ken. |
 2 | [@PetteriAimonen](https://github.com/PetteriAimonen)/[**ebike-controller**](https://github.com/PetteriAimonen/ebike-controller) | Chibios-based ebike controller |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 291 | [@fador](https://github.com/fador)/[**mineserver**](https://github.com/fador/mineserver) | Custom Minecraft server software written in C++ for Windows and Linux | [:arrow_upper_right:](http://mineserver.be/)
@@ -488,6 +502,7 @@ Non-Unite install: Copy templates/tankwar.html to public_html. Open copied file 
 2 | [@kimmoli](https://github.com/kimmoli)/[**tohiri-app**](https://github.com/kimmoli/tohiri-app) | OBSOLETE |
 2 | [@kimmoli](https://github.com/kimmoli)/[**stm32-programmer**](https://github.com/kimmoli/stm32-programmer) | STM32 I2C Programmer for Jolla TOH |
 2 | [@sisu](https://github.com/sisu)/[**qsonos**](https://github.com/sisu/qsonos) | Sonos desktop client using Qt |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
